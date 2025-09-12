@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Computer Vision & AI Engineer",
+    "organisation": "Myakiatto",
+    "startDate": "2025",
+    "endDate": "3 mois",
+    "experiences": [
+      "Développement d'un système de navigation de drones sans GPS",
+      "Implémentation de pipelines d'image retrieval et visual localization",
+      "Utilisation de réseaux (SuperPoint, SuperGlue) pour estimer trajectoires et positions",
+      "Résultats : localisation précise (15–30 m) en conditions optimales"
+    ],
+    "imageSrc": "history/Myakiatto.png",
+    "website": "https://www.myakiatto.com/index.php/fr/"
+  },
+  {
+    "role": "Data & Cloud Engineer",
+    "organisation": "Astrée Software",
+    "startDate": "2024",
+    "endDate": "3 mois",
+    "experiences": [
+      "Extraction et analyse multi-tenant (pgAdmin4, Python, Docker, AWS Lambda)",
+      "Visualisation des données avec Grafana",
+      "Déploiement cloud et documentation complète"
+    ],
+    "imageSrc": "history/Astree.png",
+    "website": "https://www.astree-software.fr/"
+  }
+]

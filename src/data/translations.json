@@ -1,0 +1,88 @@
+{
+  "fr": {
+    "nav": {
+      "about": "À propos",
+      "experience": "Expérience",
+      "projects": "Projets",
+      "contact": "Contact"
+    },
+    "hero": {
+      "greeting": "Salut, je suis Yanis",
+      "description": "Étudiant en ingénierie informatique passionné par l'IA et ses applications futures possibles.",
+      "contactBtn": "Me contacter"
+    },
+    "about": {
+      "title": "À propos",
+      "bio": "Je suis étudiant en ingénierie informatique, spécialisé dans le développement et l'intelligence artificielle. Je suis passionné par la création d'outils et d'applications basées sur l'IA et convaincu de leur potentiel pour transformer notre quotidien.",
+      "skills": {
+        "ai": {
+          "title": "Ingénieur IA",
+          "description": "Modèles génératifs, computer vision, LLMs et développement d'applications intelligentes"
+        },
+        "data": {
+          "title": "Data Science",
+          "description": "Traitement de données, visualisation, machine learning et analyse multi-tenant"
+        },
+        "fullstack": {
+          "title": "Développeur Full-Stack",
+          "description": "Développement C++/Java, interfaces utilisateur et applications complètes"
+        }
+      }
+    },
+    "experience": {
+      "title": "Expérience"
+    },
+    "projects": {
+      "title": "Projets",
+      "demo": "Démo",
+      "source": "Source"
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "N'hésitez pas à me contacter !"
+    }
+  },
+  "en": {
+    "nav": {
+      "about": "About",
+      "experience": "Experience",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "hero": {
+      "greeting": "Hi, I'm Yanis",
+      "description": "Computer engineering student passionate about AI and its possible future applications.",
+      "contactBtn": "Contact Me"
+    },
+    "about": {
+      "title": "About",
+      "bio": "I am a computer engineering student specializing in development and artificial intelligence. I am passionate about creating AI-based tools and applications and convinced of their potential to transform our daily lives.",
+      "skills": {
+        "ai": {
+          "title": "AI Engineer",
+          "description": "Generative models, computer vision, LLMs and intelligent application development"
+        },
+        "data": {
+          "title": "Data Science",
+          "description": "Data processing, visualization, machine learning and multi-tenant analysis"
+        },
+        "fullstack": {
+          "title": "Full-Stack Developer",
+          "description": "C++/Java development, user interfaces and complete applications"
+        }
+      }
+    },
+    "experience": {
+      "title": "Experience"
+    },
+    "projects": {
+      "title": "Projects",
+      "demo": "Demo",
+      "source": "Source"
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "Feel free to reach out!"
+    }
+  }
+}

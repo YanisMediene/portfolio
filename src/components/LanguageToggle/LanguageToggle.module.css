@@ -1,0 +1,41 @@
+.languageToggle {
+  display: flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 25px;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+.languageToggle:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.flag {
+  font-size: 18px;
+  margin: 0 4px;
+  opacity: 0.6;
+  transition: all 0.3s ease;
+  filter: grayscale(0.5);
+}
+
+.flag.active {
+  opacity: 1;
+  filter: grayscale(0);
+  transform: scale(1.1);
+}
+
+@media screen and (max-width: 830px) {
+  .languageToggle {
+    padding: 6px 10px;
+  }
+  
+  .flag {
+    font-size: 16px;
+    margin: 0 2px;
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "HuggingFace",
+    "imageSrc": "skills/huggingface.svg"
+  },
+  {
+    "title": "PyTorch",
+    "imageSrc": "skills/pytorch.png"
+  },
+  {
+    "title": "TensorFlow",
+    "imageSrc": "skills/tensorflow.png"
+  },
+  {
+    "title": "Ollama",
+    "imageSrc": "skills/ollama.png"
+  },
+  {
+    "title": "OpenCV",
+    "imageSrc": "skills/opencv.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Grafana",
+    "imageSrc": "skills/grafana.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Qt",
+    "imageSrc": "skills/qt.png"
+  },
+  {
+    "title": "OpenGL",
+    "imageSrc": "skills/opengl.svg"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  }
+]

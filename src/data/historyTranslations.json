@@ -1,0 +1,60 @@
+{
+  "fr": [
+    {
+      "role": "Computer Vision & AI Engineer",
+      "organisation": "Myakiatto",
+      "startDate": "Mars 2025",
+      "endDate": "4 mois",
+      "experiences": [
+        "Développement d'un système de navigation de drones sans GPS",
+        "Implémentation de pipelines d'image retrieval et visual localization",
+        "Utilisation de réseaux (SuperPoint, SuperGlue) pour estimer trajectoires et positions",
+        "Résultats : localisation précise (15–30 m) en conditions optimales"
+      ],
+      "imageSrc": "history/Myakiatto.png",
+      "website": "https://www.myakiatto.com/index.php/fr/"
+    },
+    {
+      "role": "Data & Cloud Engineer",
+      "organisation": "Astrée Software",
+      "startDate": "Avril 2024",
+      "endDate": "3 mois",
+      "experiences": [
+        "Extraction et analyse multi-tenant (pgAdmin4, Python, Docker, AWS Lambda)",
+        "Visualisation des données avec Grafana",
+        "Déploiement cloud et documentation complète"
+      ],
+      "imageSrc": "history/Astree.png",
+      "website": "https://www.astree-software.fr/"
+    }
+  ],
+  "en": [
+    {
+      "role": "Computer Vision & AI Engineer",
+      "organisation": "Myakiatto",
+      "startDate": "Mars 2024",
+      "endDate": "4 months",
+      "experiences": [
+        "Development of a GPS-free drone navigation system",
+        "Implementation of image retrieval and visual localization pipelines",
+        "Use of networks (SuperPoint, SuperGlue) to estimate trajectories and positions",
+        "Results: precise localization (15–30 m) under optimal conditions"
+      ],
+      "imageSrc": "history/Myakiatto.png",
+      "website": "https://www.myakiatto.com/index.php/fr/"
+    },
+    {
+      "role": "Data & Cloud Engineer",
+      "organisation": "Astrée Software",
+      "startDate": "April 2024",
+      "endDate": "3 months",
+      "experiences": [
+        "Multi-tenant extraction and analysis (pgAdmin4, Python, Docker, AWS Lambda)",
+        "Data visualization with Grafana",
+        "Cloud deployment and comprehensive documentation"
+      ],
+      "imageSrc": "history/Astree.png",
+      "website": "https://www.astree-software.fr/"
+    }
+  ]
+}

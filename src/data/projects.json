@@ -1,0 +1,42 @@
+[
+  {
+    "title": "AInimation - Generative AI for Manga",
+    "imageSrc": "projects/ainimation.jpeg",
+    "description": "Pipeline complet pour transformer des mangas en animations : extraction de cases, colorisation et animation via IA générative.",
+    "skills": ["Python", "AI", "Computer Vision", "LLM", "OCR"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/YanisMediene"
+  },
+  {
+    "title": "Quadrimon - CV Card Game",
+    "imageSrc": "projects/quadrimon.png",
+    "description": "Jeu de cartes avec reconnaissance par webcam, arènes 3D et animations. Interaction par boutons/clavier.",
+    "skills": ["C++", "Qt", "OpenCV", "OpenGL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/YanisMediene"
+  },
+  {
+    "title": "Slice Defender 3D",
+    "imageSrc": "projects/slice_defender.jpg",
+    "description": "Jeu type Fruit Ninja en 3D avec détection de main via webcam, physiques paraboliques et fragmentation temps réel.",
+    "skills": ["C++", "Qt", "OpenGL", "Hand Detection"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/YanisMediene"
+  },
+  {
+    "title": "Frigo App - Smart Food Management",
+    "imageSrc": "projects/frigo.jpg",
+    "description": "Gestion de stock alimentaire et génération de recettes via API Spoonacular. Lutte contre le gaspillage alimentaire.",
+    "skills": ["Java", "API", "MySQL", "Swing"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/YanisMediene"
+  },
+  {
+    "title": "Comic Vine Manager",
+    "imageSrc": "projects/comic.jpeg",
+    "description": "Application desktop de gestion de collection de comics avec recherche avancée et recommandations personnalisées.",
+    "skills": ["Java", "API", "MySQL", "Swing"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/YanisMediene"
+  }
+]

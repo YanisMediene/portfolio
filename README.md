@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+# Portfolio de Yanis Mediene
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Portfolio personnel développé avec React et Vite, présentant mes compétences en ingénierie informatique, intelligence artificielle et développement full-stack.
 
-## Available Scripts
+## 🚀 Technologies utilisées
 
-In the project directory, you can run:
+- **Frontend :** React 18 + Vite
+- **Styling :** CSS Modules avec convention camelCase
+- **Fonts :** Outfit & Roboto
+- **Build :** Vite avec Hot Module Replacement
 
-### `npm start`
+## 📋 Sections du portfolio
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🦸 Hero
+- Présentation personnelle
+- Étudiant en ingénierie informatique
+- Spécialisé en IA et développement
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 👤 About
+- Biographie personnelle
+- Compétences clés :
+  - **IA Engineer** - Modèles génératifs, computer vision, LLMs
+  - **Data Science** - Machine learning, visualisation de données
+  - **Full-Stack Developer** - C++/Java, interfaces utilisateur
 
-### `npm test`
+### 💼 Experience
+- **Compétences techniques :** C++, Java, Python, Qt, React, OpenCV, Docker, AWS, etc.
+- **Expériences professionnelles :**
+  - Astrée Software - Data & Cloud Engineer (2024)
+  - Myakiatto - Computer Vision & AI Engineer (2024)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🚀 Projects
+- **AInimation** - Pipeline IA pour transformer mangas en animations
+- **Quadrimon** - Jeu de cartes avec reconnaissance webcam
+- **Slice Defender 3D** - Jeu avec détection de main
+- **Frigo App** - Gestion intelligente de stock alimentaire
+- **Comic Vine Manager** - Gestionnaire de collection de comics
 
-### `npm run build`
+### 📞 Contact
+- Email : yanis.mediene@gmail.com
+- LinkedIn : [yanis-mediene-22935a261](https://linkedin.com/in/yanis-mediene-22935a261)
+- GitHub : [YanisMediene](https://github.com/YanisMediene)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Installation et lancement
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prérequis
+- Node.js (version 14 ou supérieure)
+- npm ou yarn
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Installation
+```bash
+# Cloner le repository
+git clone [URL_DU_REPO]
+cd portfolio
 
-### `npm run eject`
+# Installer les dépendances
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Lancement en mode développement
+```bash
+npm run dev
+```
+Le site sera accessible sur `http://localhost:5173/`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Build de production
+```bash
+npm run build
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Prévisualisation du build
+```bash
+npm run preview
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📁 Structure du projet
 
-## Learn More
+```
+src/
+├── components/          # Composants React
+│   ├── About/          # Section À propos
+│   ├── Contact/        # Section Contact
+│   ├── Experience/     # Section Expérience
+│   ├── Hero/           # Section d'accueil
+│   ├── Navbar/         # Navigation
+│   └── Projects/       # Section Projets
+├── data/               # Données JSON
+│   ├── history.json    # Expérience professionnelle
+│   ├── projects.json   # Portfolio de projets
+│   └── skills.json     # Compétences techniques
+├── App.jsx             # Composant principal
+└── utils.js            # Utilitaires
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🎨 Personnalisation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Les données du portfolio peuvent être facilement modifiées en éditant les fichiers JSON dans le dossier `src/data/`:
 
-### Code Splitting
+- `skills.json` - Compétences techniques
+- `history.json` - Expérience professionnelle  
+- `projects.json` - Projets personnels
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Les styles sont organisés en modules CSS pour chaque composant.
 
-### Analyzing the Bundle Size
+## 📄 Licence
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Ce projet est sous licence MIT.
