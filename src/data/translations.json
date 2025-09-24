@@ -37,6 +37,14 @@
       "demo": "Démo",
       "source": "Source"
     },
+    "demo": {
+      "comingSoon": {
+        "title": "Bientôt disponible !",
+        "message": "Je travaille actuellement sur la vidéo de démonstration de ce projet passionnant.",
+        "subMessage": "En attendant, n'hésitez pas à consulter le code source pour découvrir les détails techniques !",
+        "okButton": "D'accord"
+      }
+    },
     "contact": {
       "title": "Contact",
       "subtitle": "N'hésitez pas à me contacter !"
@@ -79,6 +87,14 @@
       "title": "Projects",
       "demo": "Demo",
       "source": "Source"
+    },
+    "demo": {
+      "comingSoon": {
+        "title": "Coming Soon!",
+        "message": "I'm currently working on the demo video for this exciting project.",
+        "subMessage": "In the meantime, feel free to check out the source code to discover the technical details!",
+        "okButton": "Got it"
+      }
     },
     "contact": {
       "title": "Contact",

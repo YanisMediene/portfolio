@@ -6,6 +6,7 @@
       "description": "Pipeline complet pour transformer des mangas en animations : extraction de cases, colorisation et animation via IA générative.",
       "skills": ["Python", "AI", "Computer Vision", "LLM", "OCR"],
       "demo": "https://www.example.com",
+      "videoId": "coming-soon",
       "source": "https://github.com/YanisMediene"
     },
     {
@@ -13,7 +14,8 @@
       "imageSrc": "projects/quadrimon.png",
       "description": "Jeu de cartes avec reconnaissance par webcam, arènes 3D et animations. Interaction par boutons/clavier.",
       "skills": ["C++", "Qt", "OpenCV", "OpenGL"],
-      "demo": "https://www.example.com",
+      "demo": "https://youtu.be/kjwSvWhZ3e0",
+      "videoId": "kjwSvWhZ3e0",
       "source": "https://github.com/YanisMediene/Quadrimon"
     },
     {
@@ -21,7 +23,8 @@
       "imageSrc": "projects/slice_defender.jpg",
       "description": "Jeu type Fruit Ninja en 3D avec détection de main via webcam, physiques paraboliques et fragmentation temps réel.",
       "skills": ["C++", "Qt", "OpenGL", "Hand Detection"],
-      "demo": "https://www.example.com",
+      "demo": "https://youtu.be/eN1u3v2lUvI",
+      "videoId": "eN1u3v2lUvI",
       "source": "https://github.com/YanisMediene/Slice_Defender_3D"
     },
     {
@@ -29,7 +32,8 @@
       "imageSrc": "projects/frigo.jpg",
       "description": "Gestion de stock alimentaire et génération de recettes via API Spoonacular. Lutte contre le gaspillage alimentaire.",
       "skills": ["Java", "API", "MySQL", "Swing"],
-      "demo": "https://www.example.com",
+      "demo": "https://youtu.be/sWWHvwnVXes",
+      "videoId": "sWWHvwnVXes",
       "source": "https://github.com/YanisMediene/Frigo_App"
     },
     {
@@ -37,7 +41,8 @@
       "imageSrc": "projects/comic.jpeg",
       "description": "Application desktop de gestion de collection de comics avec recherche avancée et recommandations personnalisées.",
       "skills": ["Java", "API", "MySQL", "Swing"],
-      "demo": "https://www.example.com",
+      "demo": "https://youtu.be/Oj7wI3-yy_M",
+      "videoId": "Oj7wI3-yy_M",
       "source": "https://github.com/YanisMediene/Comic_Vine_Manager"
     }
   ],
@@ -48,6 +53,7 @@
       "description": "Complete pipeline to transform manga into animations: panel extraction, colorization and animation via generative AI.",
       "skills": ["Python", "AI", "Computer Vision", "LLM", "OCR"],
       "demo": "https://www.example.com",
+      "videoId": "coming-soon",
       "source": "https://github.com/YanisMediene"
     },
     {
@@ -55,7 +61,8 @@
       "imageSrc": "projects/quadrimon.png",
       "description": "Card game with webcam recognition, 3D arenas and animations. Interaction via buttons/keyboard.",
       "skills": ["C++", "Qt", "OpenCV", "OpenGL"],
-      "demo": "https://www.example.com",
+      "demo": "https://youtu.be/kjwSvWhZ3e0",
+      "videoId": "kjwSvWhZ3e0",
       "source": "https://github.com/YanisMediene/Quadrimon"
     },
     {
@@ -63,7 +70,8 @@
       "imageSrc": "projects/slice_defender.jpg",
       "description": "3D Fruit Ninja-style game with hand detection via webcam, parabolic physics and real-time fragmentation.",
       "skills": ["C++", "Qt", "OpenGL", "Hand Detection"],
-      "demo": "https://www.example.com",
+      "demo": "https://youtu.be/eN1u3v2lUvI",
+      "videoId": "eN1u3v2lUvI",
       "source": "https://github.com/YanisMediene/Slice_Defender_3D"
     },
     {
@@ -71,7 +79,8 @@
       "imageSrc": "projects/frigo.jpg",
       "description": "Food stock management and recipe generation via Spoonacular API. Fighting food waste.",
       "skills": ["Java", "API", "MySQL", "Swing"],
-      "demo": "https://www.example.com",
+      "demo": "https://youtu.be/sWWHvwnVXes",
+      "videoId": "sWWHvwnVXes",
       "source": "https://github.com/YanisMediene/Frigo_App"
     },
     {
@@ -79,7 +88,8 @@
       "imageSrc": "projects/comic.jpeg",
       "description": "Desktop application for managing comic collections with advanced search and personalized recommendations.",
       "skills": ["Java", "API", "MySQL", "Swing"],
-      "demo": "https://www.example.com",
+      "demo": "https://youtu.be/Oj7wI3-yy_M",
+      "videoId": "Oj7wI3-yy_M",
       "source": "https://github.com/YanisMediene/Comic_Vine_Manager"
     }
   ]

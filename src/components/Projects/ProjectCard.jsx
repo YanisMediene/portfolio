@@ -5,9 +5,19 @@ import { getImageUrl } from "../../utils";
 import { useLanguage } from "../../contexts/LanguageContext";
 
 export const ProjectCard = ({
-  project: { title, imageSrc, description, skills, demo, source },
+  project: { title, imageSrc, description, skills, demo, videoId, source },
+  onDemoClick
 }) => {
   const { t } = useLanguage();
+
+  const handleDemoClick = (e) => {
+    e.preventDefault();
+    if (videoId && onDemoClick) {
+      onDemoClick(videoId, title);
+    } else if (demo) {
+      window.open(demo, '_blank', 'noopener,noreferrer');
+    }
+  };
 
   return (
     <div className={styles.container}>
@@ -28,9 +38,14 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link} target="_blank" rel="noopener noreferrer">
-          {t('projects.demo')}
-        </a>
+        <button 
+          onClick={handleDemoClick} 
+          className={`${styles.link} ${styles.demoButton}`}
+          type="button"
+        >
+          {videoId && <span className={styles.playIcon}>▶</span>}
+          <span>{t('projects.demo')}</span>
+        </button>
         <a href={source} className={styles.link} target="_blank" rel="noopener noreferrer">
           {t('projects.source')}
         </a>

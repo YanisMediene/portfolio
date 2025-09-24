@@ -5,6 +5,7 @@
     "description": "Pipeline complet pour transformer des mangas en animations : extraction de cases, colorisation et animation via IA générative.",
     "skills": ["Python", "AI", "Computer Vision", "LLM", "OCR"],
     "demo": "https://www.example.com",
+    "videoId": null,
     "source": "https://github.com/YanisMediene"
   },
   {
@@ -12,7 +13,8 @@
     "imageSrc": "projects/quadrimon.png",
     "description": "Jeu de cartes avec reconnaissance par webcam, arènes 3D et animations. Interaction par boutons/clavier.",
     "skills": ["C++", "Qt", "OpenCV", "OpenGL"],
-    "demo": "https://www.example.com",
+    "demo": "https://youtu.be/kjwSvWhZ3e0",
+    "videoId": "kjwSvWhZ3e0",
     "source": "https://github.com/YanisMediene"
   },
   {
@@ -20,7 +22,8 @@
     "imageSrc": "projects/slice_defender.jpg",
     "description": "Jeu type Fruit Ninja en 3D avec détection de main via webcam, physiques paraboliques et fragmentation temps réel.",
     "skills": ["C++", "Qt", "OpenGL", "Hand Detection"],
-    "demo": "https://www.example.com",
+    "demo": "https://youtu.be/eN1u3v2lUvI",
+    "videoId": "eN1u3v2lUvI",
     "source": "https://github.com/YanisMediene"
   },
   {
@@ -28,7 +31,8 @@
     "imageSrc": "projects/frigo.jpg",
     "description": "Gestion de stock alimentaire et génération de recettes via API Spoonacular. Lutte contre le gaspillage alimentaire.",
     "skills": ["Java", "API", "MySQL", "Swing"],
-    "demo": "https://www.example.com",
+    "demo": "https://youtu.be/sWWHvwnVXes",
+    "videoId": "sWWHvwnVXes",
     "source": "https://github.com/YanisMediene"
   },
   {
@@ -36,7 +40,8 @@
     "imageSrc": "projects/comic.jpeg",
     "description": "Application desktop de gestion de collection de comics avec recherche avancée et recommandations personnalisées.",
     "skills": ["Java", "API", "MySQL", "Swing"],
-    "demo": "https://www.example.com",
+    "demo": "https://youtu.be/Oj7wI3-yy_M",
+    "videoId": "Oj7wI3-yy_M",
     "source": "https://github.com/YanisMediene"
   }
 ]
